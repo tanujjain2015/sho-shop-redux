@@ -1,4 +1,4 @@
-# Shop Shop  
+# Shoping Portal
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -19,7 +19,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Contributing](#contributing)
 * [Questions](#questions)
 
+## Deployed Application 
 
+[Shoping](https://shoping-redux.herokuapp.com/)<br />
+[Github URL] (https://github.com/tanujjain2015/sho-shop-redux) <br/>
 
 
 ## User Story
