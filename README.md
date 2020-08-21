@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Shoping](https://shoping-redux.herokuapp.com/)<br />
+[Shoping Portal URL ](https://shoping-redux.herokuapp.com/)<br />
 [Github URL] (https://github.com/tanujjain2015/sho-shop-redux) <br/>
 
 
